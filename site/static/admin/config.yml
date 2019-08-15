@@ -58,8 +58,8 @@ collections: # A list of collections the CMS should be able to edit
                 ],
             }
           - {
-              label: "Values",
-              name: "values",
+              label: "Fails",
+              name: "fails",
               widget: "object",
               fields:
                 [
@@ -189,14 +189,14 @@ collections: # A list of collections the CMS should be able to edit
                   },
                 ],
             }
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
-        name: "values"
+      - file: "site/content/fails/_index.md"
+        label: "Fails Page"
+        name: "fails"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Image, name: image, widget: image }
-          - label: Values
-            name: values
+          - label: Fails
+            name: fails
             widget: list
             fields:
               - { label: Heading, name: heading, widget: string }

@@ -1,7 +1,7 @@
----
-title: "Values"
+<!-- ---
+title: "Fails"
 image: /img/about-jumbotron.jpg
-values:
+fails:
   - heading: "Shade-grown coffee"
     text: >
       Coffee is a small tree or shrub that grows in the forest
@@ -42,4 +42,6 @@ values:
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
     imageUrl: "/img/about-reinvest-profits.jpg"
+--- -->
+---
 ---
