@@ -1,19 +1,67 @@
-failures = [
-"Constitution",  
-"People",  
-"Health Care",  
-"Middle Class",  
-"Poor",  
-"Minorities",  
-"Women",  
-"Children",  
-"His Wives",  
-"His Kids",  
-"His Businesses",  
-"Gun Safety",  
-"Allies",  
-"Auto Industry",  
-"Farmers",  
-"Decency",  
-"Environment"
-]
+[[failures]]
+headline = "Donald Trump Business Failures"
+url = "https://time.com/4343030/donald-trump-failures/"
+
+[[failures]]
+headline = "DNC List: 110 Trump ‘failures’ at 2-year mark, ‘only getting worse’"
+url = "https://www.washingtonexaminer.com/washington-secrets/dnc-list-110-trump-failures-at-2-year-mark-only-getting-worse"
+
+[[failures]]
+headline = "The Test Trump Failed"
+url = "https://www.theatlantic.com/politics/archive/2017/08/leadership-language-and-the-moments-that-define-us/536733/"
+
+[[failures]]
+headline = "10 of Donald Trump’s Business That Completely Failed"
+url = "https://www.youtube.com/watch?v=9yJ7XfB1ydA"
+
+[[failures]]
+headline = "How the Trump-Kim Summit Failed: Big Threats, Big Egos, Bad Bets"
+url = "https://www.nytimes.com/2019/03/02/world/asia/trump-kim-jong-un-summit.html"
+
+[[failures]]
+headline = "Donald Trump's Bankruptcies"
+url = "https://www.snopes.com/news/2016/08/01/donald-trumps-bankruptcies/"
+
+[[failures]]
+headline = "5 ways Donald Trump has failed to ‘drain the swamp’"
+url = "https://www.yahoo.com/news/5-ways-donald-trump-failed-drain-swamp-100013259.html"
+
+[[failures]]
+headline = "Trump says teleprompter failed in speech that bungled history of ‘Star-Spangled Banner’, Fort McHenry battle"
+url = "https://www.baltimoresun.com/politics/bs-md-trump-speech-20190705-story.html"
+
+[[failures]]
+headline = "Donald Trump blames everyone but himself for healthcare legislation failure"
+url = "https://www.theguardian.com/us-news/2017/mar/26/donald-trump-healthcare-blame-freedom-caucus-democrats"
+
+[[failures]]
+headline = "How Trump's Failed Wall Wreaks Havoc at the US-Mexico Border"
+url = "https://lithub.com/how-trumps-failed-wall-wreaks-havoc-at-the-us-mexico-border/"
+
+[[failures]]
+headline = "Trump Has Undeniably Failed to Reverse America’s Decline"
+url = "https://www.truthdig.com/articles/trump-has-blatantly-failed-to-reverse-americas-decline/"
+
+[[failures]]
+headline = "Trump's National Security and Foreign Policy Failures: Year One"
+url = "https://www.americanprogress.org/issues/security/news/2018/01/17/445109/trumps-national-security-foreign-policy-failures-year-one/"
+
+[[failures]]
+headline = "Trump pretends a failed economic theory has been proven true"
+url = "http://www.msnbc.com/rachel-maddow-show/trump-pretends-failed-economic-theory-has-been-proven-true"
+
+[[failures]]
+headline = "Trump's Biggest Lies? Everything He Promised And Failed To Do"
+url = "https://www.nationalmemo.com/trumps-biggest-lies-everything-he-promised-and-failed-to-do/"
+
+[[failures]]
+headline = "Mitt Romney: Donald Trump ‘failed badly’ with AOC Squad tweets"
+url = "https://www.washingtontimes.com/news/2019/jul/15/mitt-romney-donald-trump-failed-badly-aoc-squad-tw/"
+
+[[failures]]
+headline = "Donald Trump’s Failures Make Him Even More Dangerous"
+url = "https://www.bloomberg.com/opinion/articles/2019-06-10/mexico-tariffs-trump-s-failures-make-him-even-more-dangerous"
+
+[[failures]]
+headline = "Trump’s Peace Deal Failed Even Before Taking Off – Analysis"
+url = "https://www.eurasiareview.com/09072019-trumps-peace-deal-failed-even-before-taking-off-analysis/"

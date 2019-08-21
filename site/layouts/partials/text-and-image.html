@@ -6,7 +6,7 @@
         {{ with $.Site.Data.epic.fails.failures }}
 				<ul style="list-style: disc outside none;">          
           {{ range $.Site.Data.epic.fails.failures }}
-					<li><a href="#">{{ . }}</a></li>
+					<li><a href="{{ .url }}" target="_blank">{{ .headline }}</a></li>
 					{{ end }}
         </ul>
         {{ end }}
